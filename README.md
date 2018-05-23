@@ -6,4 +6,4 @@ Please contact yiping0liu@gmail.com, if you have any problem.
 Copyright 2014-2017 by Yiping Liu
 
 # 1by1EA-II
-Y. Liu et.al, Improving 1by1EA to Handle Various Shapes of Pareto Fronts (1by1EA-II), under review
+Y. Liu et.al, Improving 1by1EA to Handle Various Shapes of Pareto Fronts (1by1EA-II), accpeted by PPSN 2018
